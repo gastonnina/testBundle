@@ -4,7 +4,7 @@
     "description": "Es solo un test",
     "keywords": ["gaston", "symfony"],
     "homepage": "http://github.com/gastonnina/testBundle",
-    "license": "Apache2",
+    "license": "MIT",
     "authors": [
         {
             "name": "Gaston Nina",
@@ -13,9 +13,6 @@
     ],
     "require": {
         "php": ">=5.3.2"
-    },
-    "require-dev": {
-        "symfony/framework-bundle": ">=2.0,<2.2-dev",
     },
     "autoload": {
         "psr-0": { "Gaston\\TestBundle": "" }
